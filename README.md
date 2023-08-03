@@ -38,7 +38,7 @@ OR
 .\winadmin.exe -u kryptohaker -p P@ssw0rd1 -e winrm
 ```
 
-## Example
+## Scenario (I): PrintSpoofer
 
 ```
 PS C:\Temp> .\winadmin.exe
