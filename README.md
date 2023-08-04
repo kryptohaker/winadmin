@@ -108,7 +108,3 @@ The command completed successfully.
 ## Disclaimer
 
 This tool is intended for educational and ethical purposes only. Misuse of this tool for any malicious or illegal activities is strictly prohibited. The author is not responsible for any damage or loss caused by the misuse of this tool.
-
-## License
-
-This project is licensed under the [End-User License Agreement (EULA)](LICENSE).
