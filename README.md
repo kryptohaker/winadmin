@@ -111,4 +111,4 @@ This tool is intended for educational and ethical purposes only. Misuse of this 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [End-User License Agreement (EULA)](LICENSE).
